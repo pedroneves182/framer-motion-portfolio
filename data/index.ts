@@ -84,7 +84,7 @@ export const projects = [
     des: "Projeto front end simulando uma locadora de carros online.",
     img: "/p2.svg",
     iconLists: ["/next.svg", "/ts.svg", "/tail.svg"],
-    link: "https://github.com/adrianhajdin/zoom-clone",
+    link: "https://car-rental-showcase-eta.vercel.app/",
   },
   // {
   //   id: 3,
